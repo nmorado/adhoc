@@ -1,0 +1,17 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="dbfit.util.PropertiesLoaderTest" tests="11" failures="0" errors="0" timestamp="2013-09-11T15:32:15" hostname="Nomars-MacBook-Pro.local" time="0.022">
+  <properties/>
+  <testcase name="testEncryptedPropertyLoadRealCryptoSvc" classname="dbfit.util.PropertiesLoaderTest" time="0.0020"/>
+  <testcase name="unwrapNonEncryptedValueShouldGiveNull" classname="dbfit.util.PropertiesLoaderTest" time="0.0010"/>
+  <testcase name="shouldSkipCommentedLines" classname="dbfit.util.PropertiesLoaderTest" time="0.0030"/>
+  <testcase name="testNonEncryptedPropertyLoad" classname="dbfit.util.PropertiesLoaderTest" time="0.0010"/>
+  <testcase name="unwrapEncryptedValueTest" classname="dbfit.util.PropertiesLoaderTest" time="0.0010"/>
+  <testcase name="shouldCallDecryptWhenLoadingEncryptedValue" classname="dbfit.util.PropertiesLoaderTest" time="0.0"/>
+  <testcase name="shouldAllowEqualsSignInSettingsValue" classname="dbfit.util.PropertiesLoaderTest" time="0.0010"/>
+  <testcase name="parseNonEncryptedValueTest" classname="dbfit.util.PropertiesLoaderTest" time="0.0010"/>
+  <testcase name="parseEncryptedValueTest" classname="dbfit.util.PropertiesLoaderTest" time="0.0010"/>
+  <testcase name="splitKeyValueSettingsLineTest" classname="dbfit.util.PropertiesLoaderTest" time="0.0010"/>
+  <testcase name="testEncryptedPropertyLoad" classname="dbfit.util.PropertiesLoaderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

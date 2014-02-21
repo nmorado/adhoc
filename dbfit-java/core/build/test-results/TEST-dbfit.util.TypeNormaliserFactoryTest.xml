@@ -1,0 +1,9 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="dbfit.util.TypeNormaliserFactoryTest" tests="3" failures="0" errors="0" timestamp="2013-09-11T15:32:15" hostname="Nomars-MacBook-Pro.local" time="0.0010">
+  <properties/>
+  <testcase name="normaliserLookupReturnsClosestParentIfNoExactMatch" classname="dbfit.util.TypeNormaliserFactoryTest" time="0.0010"/>
+  <testcase name="normaliserLookupReturnsNullWhenNolExactMatchNorParents" classname="dbfit.util.TypeNormaliserFactoryTest" time="0.0"/>
+  <testcase name="normaliserLookupReturnsExactMatchIfAny" classname="dbfit.util.TypeNormaliserFactoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

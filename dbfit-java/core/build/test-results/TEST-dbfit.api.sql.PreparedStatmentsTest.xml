@@ -1,0 +1,10 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="dbfit.api.sql.PreparedStatmentsTest" tests="4" failures="0" errors="0" timestamp="2013-09-11T15:32:14" hostname="Nomars-MacBook-Pro.local" time="0.0010">
+  <properties/>
+  <testcase name="procedureWithoutParameters" classname="dbfit.api.sql.PreparedStatmentsTest" time="0.0"/>
+  <testcase name="functionWithParameters" classname="dbfit.api.sql.PreparedStatmentsTest" time="0.0"/>
+  <testcase name="procedureWithParameters" classname="dbfit.api.sql.PreparedStatmentsTest" time="0.0"/>
+  <testcase name="functionWithoutParameters" classname="dbfit.api.sql.PreparedStatmentsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

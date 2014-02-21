@@ -1,0 +1,8 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="dbfit.environment.DerbyDbEnvironmentFactoryTest" tests="2" failures="0" errors="0" timestamp="2013-09-11T15:32:42" hostname="Nomars-MacBook-Pro.local" time="1.736">
+  <properties/>
+  <testcase name="newDbEnvironmentTest" classname="dbfit.environment.DerbyDbEnvironmentFactoryTest" time="0.174"/>
+  <testcase name="newEmbeddedDerbyDbEnvironmentTest" classname="dbfit.environment.DerbyDbEnvironmentFactoryTest" time="1.561"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

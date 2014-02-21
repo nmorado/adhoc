@@ -1,0 +1,37 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="dbfit.util.crypto.CryptoAppExecReturnCodeTest" tests="5" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="Nomars-MacBook-Pro.local" time="1.378913535286E9">
+  <properties/>
+  <testcase name="execReturnCodeShouldBeCorrect[(0): exec with args ABC -&gt; expecting 0]" classname="dbfit.util.crypto.CryptoAppExecReturnCodeTest" time="0.041"/>
+  <testcase name="execReturnCodeShouldBeCorrect[(1): exec with args ABC -keyStoreLocation /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/junit1611946577688411364 -&gt; expecting 0]" classname="dbfit.util.crypto.CryptoAppExecReturnCodeTest" time="0.015"/>
+  <testcase name="execReturnCodeShouldBeCorrect[(2): exec with args too many args -&gt; expecting 1]" classname="dbfit.util.crypto.CryptoAppExecReturnCodeTest" time="0.019"/>
+  <testcase name="execReturnCodeShouldBeCorrect[(3): exec with args XYZ invalid args -&gt; expecting 1]" classname="dbfit.util.crypto.CryptoAppExecReturnCodeTest" time="0.011"/>
+  <testcase name="execReturnCodeShouldBeCorrect[(4): exec with args  -&gt; expecting 1]" classname="dbfit.util.crypto.CryptoAppExecReturnCodeTest" time="0.011"/>
+  <system-out><![CDATA[KeyStore created: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/junit1549864203253458979/.dbfit.jks
+Using KeyStore: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/junit1549864203253458979/.dbfit.jks
+Encrypted Password:
+ENC(xb/me5dyFS0EZ58jcggwXw==)
+KeyStore created: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/junit1611946577688411364/.dbfit.jks
+Using KeyStore: /var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/junit1611946577688411364/.dbfit.jks
+Encrypted Password:
+ENC(OyX67GamYBKF51dG1S/GGg==)
+Usage arguments:
+ <password> [-keyStoreLocation <keyStoreLocation>]
+     Encrypt the given password and show the result.
+     Password is encrypted using key from keyStoreLocation.
+     If no keyStoreLocation is specified - default location is used.
+     If no dbfit keystore and key exist - they're automatically created.
+Usage arguments:
+ <password> [-keyStoreLocation <keyStoreLocation>]
+     Encrypt the given password and show the result.
+     Password is encrypted using key from keyStoreLocation.
+     If no keyStoreLocation is specified - default location is used.
+     If no dbfit keystore and key exist - they're automatically created.
+Usage arguments:
+ <password> [-keyStoreLocation <keyStoreLocation>]
+     Encrypt the given password and show the result.
+     Password is encrypted using key from keyStoreLocation.
+     If no keyStoreLocation is specified - default location is used.
+     If no dbfit keystore and key exist - they're automatically created.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

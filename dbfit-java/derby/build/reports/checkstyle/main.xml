@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="/Developer/workspace/dbfit/dbfit-java/derby/src/main/java/dbfit/DerbyTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/derby/src/main/java/dbfit/environment/DerbyEnvironment.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/derby/src/main/java/dbfit/environment/EmbeddedDerbyEnvironment.java">
+</file>
+</checkstyle>

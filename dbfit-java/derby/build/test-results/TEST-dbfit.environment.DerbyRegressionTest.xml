@@ -1,0 +1,33 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="dbfit.environment.DerbyRegressionTest" tests="1" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="Nomars-MacBook-Pro.local" time="1.37891356873E9">
+  <properties/>
+  <testcase name="flowMode" classname="dbfit.environment.DerbyRegressionTest" time="4.373"/>
+  <system-out><![CDATA[Wed Sep 11 11:32:44 EDT 2013 : Apache Derby Network Server - 10.9.1.0 - (1344872) started and ready to accept connections on port 1527
+FitNesse (v20130530) Started...
+	port:              1234
+	root page:         fitnesse.wiki.FileSystemPage at ../../FitNesseRoot
+	logger:            none
+	authenticator:     fitnesse.authentication.PromiscuousAuthenticator
+	page factory:      fitnesse.responders.PageFactory
+	page theme:        fitnesse_straight
+	page version expiration set to 0 days.
+Executing command: DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode?suite&debug=true&nohistory=true&format=java
+-----Command Output-----
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.BulkInsert r 6 w 0 0 1.419 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanByIds r 3 w 0 0 0.156 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanByKeys r 3 w 0 0 0.111 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanTable r 2 w 0 0 0.302 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanTableWithWhere r 6 w 0 0 0.187 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.ExecutingStatements r 4 w 0 0 0.056 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.InsertWithAutoIncrement r 6 w 0 0 0.126 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.SimpleSelect r 1 w 0 0 0.0090 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.SimpleUpdate r 6 w 0 0 0.119 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.StoreAndCompareQueries r 6 w 0 0 0.145 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.TransactionsTest r 8 w 0 0 0.066 seconds
+DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.UpdateTest r 36 w 0 0 0.265 seconds
+--complete: 3.477 seconds--
+-----Command Complete-----
+Wed Sep 11 11:32:48 EDT 2013 : Apache Derby Network Server - 10.9.1.0 - (1344872) shutdown
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

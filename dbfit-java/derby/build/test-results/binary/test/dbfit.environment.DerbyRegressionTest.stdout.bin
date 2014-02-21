@@ -1,0 +1,17 @@
+flowModåÈWed Sep 11 11:32:44 EDT 2013 : Apache Derby Network Server - 10.9.1.0 - (1344872) started and ready to accept connections on port 1527
+flowModåFitNesse (v20130530) Started...ŠflowModå	port:              1234ŠflowModåÈ	root page:         fitnesse.wiki.FileSystemPage at ../../FitNesseRoot
+flowModå	logger:            noneŠflowModåÆ	authenticator:     fitnesse.authentication.PromiscuousAuthenticator
+flowModå	page factory:      fitnesse.responders.PageFactoryŠflowModå	page theme:        fitnesse_straightŠflowModå	page version expiration set to 0 days.ŠflowModåôExecuting command: DbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode?suite&debug=true&nohistory=true&format=java
+flowModå-----Command Output-----ŠflowModåØDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.BulkInsert r 6 w 0 0 1.419 seconds
+flowModåãDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanByIds r 3 w 0 0 0.156 seconds
+flowModåäDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanByKeys r 3 w 0 0 0.111 seconds
+flowModåãDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanTable r 2 w 0 0 0.302 seconds
+flowModåìDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.CleanSuite.CleanTableWithWhere r 6 w 0 0 0.187 seconds
+flowModåáDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.ExecutingStatements r 4 w 0 0 0.056 seconds
+flowModååDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.InsertWithAutoIncrement r 6 w 0 0 0.126 seconds
+flowModåÛDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.SimpleSelect r 1 w 0 0 0.0090 seconds
+flowModåÚDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.SimpleUpdate r 6 w 0 0 0.119 seconds
+flowModåäDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.StoreAndCompareQueries r 6 w 0 0 0.145 seconds
+flowModåÞDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.TransactionsTest r 8 w 0 0 0.066 seconds
+flowModåÙDbFit.AcceptanceTests.JavaTests.DerbyTests.FlowMode.UpdateTest r 36 w 0 0 0.265 seconds
+flowModå--complete: 3.477 seconds--ŠflowModå-----Command Complete-----ŠflowModåÜWed Sep 11 11:32:48 EDT 2013 : Apache Derby Network Server - 10.9.1.0 - (1344872) shutdown

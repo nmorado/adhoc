@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/api/DbEnvironmentFactoryTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/api/DbTableTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/api/sql/PreparedStatmentsTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/BigDecimalParseDelegateTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/DbConnectionPropertiesTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/LangUtilsTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/MockitoTestBase.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/PropertiesLoaderTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/PropertiesTestsSetUp.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/TypeNormaliserFactoryTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/AESCryptoServiceTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/CryptoAppExecReturnCodeTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/CryptoAppTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/CryptoAppTestBase.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/CryptoKeyStoreTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/CryptoServiceTest.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/CryptoServiceTests.java">
+</file>
+<file name="/Developer/workspace/dbfit/dbfit-java/core/src/test/java/dbfit/util/crypto/CryptoTestsConfig.java">
+</file>
+</checkstyle>

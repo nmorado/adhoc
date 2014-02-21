@@ -1,0 +1,8 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="dbfit.util.crypto.CryptoServiceTest" tests="2" failures="0" errors="0" timestamp="2013-09-11T15:32:15" hostname="Nomars-MacBook-Pro.local" time="0.0090">
+  <properties/>
+  <testcase name="encryptionShouldBeReversable" classname="dbfit.util.crypto.CryptoServiceTest" time="0.0010"/>
+  <testcase name="encryptedPasswordShouldNotContainOriginalOne" classname="dbfit.util.crypto.CryptoServiceTest" time="0.0070"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
